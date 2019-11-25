@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Scott here. I am typing for part of the guide (No idea what's going on).
+
